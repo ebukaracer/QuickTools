@@ -1,0 +1,8 @@
+{
+  "name": "com.racer.quicktools",
+  "version": "0.0.1-preview.3",
+  "displayName": "Quick Tools",
+  "description": "Streamlizes the creation of project's directories and \nsub-directories.",
+  "publisher": "Racer",
+  "type": "tool"
+}

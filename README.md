@@ -1,5 +1,7 @@
 # Quick Tools
-Hastens your unity project development workflow. 
+Hastens your unity project development workflow.
+
+*Note that this package is not officially supported or endorsed by Unity, Use at your own risk.*
 
 ## Available Tools:
 - Directory management tool.
@@ -12,7 +14,7 @@ Hastens your unity project development workflow.
 - Locate the path for the quicktools package(this package).
 - Open the package.json file located inside com.racer.quicktools directory, doing this would install the package.
 
-Alternatively you can choose to add package from Git URL(Unity 2019.4+) thereafter you specify the git url for this package:
+*Alternatively you can choose to add package from Git URL(Unity 2019.4+) thereafter you specify the git url for this package:*
 
 ![Add via git url](https://i.ibb.co/tMvHBL9/Option5.png)
 
